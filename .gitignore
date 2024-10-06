@@ -1,0 +1,8 @@
+# Virtual environment
+.venv
+
+# Image files
+images/
+
+# PyCharm project settings
+.idea/
